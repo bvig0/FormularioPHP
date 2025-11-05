@@ -36,12 +36,6 @@ input {
     margin: 5px;
 }
 
-select {
-    padding: 10px;
-    width: 100%;
-    border-radius: 20px;
-}
-
 .button {
     width: 100%;
     margin: 10px;
@@ -64,4 +58,5 @@ select {
 
 .limpar {
     background-color: #c71515;
+
 }
