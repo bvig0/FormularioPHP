@@ -22,7 +22,7 @@
         <form action="resultado.php" method="post">
 
             <label for="nome">Nome</label>
-            <input type="text" name="nome" id="nome" placeholder="Digite o seu primeiro nome..." maxlength="50"
+            <input type="text" name="nome" id="nome" placeholder="Digite o seu nome..." maxlength="50"
                 autocomplete="off" required autofocus>
 
             <label for="idade">Idade</label>
@@ -43,5 +43,6 @@
 
     </main>
 </body>
+
 
 </html>
